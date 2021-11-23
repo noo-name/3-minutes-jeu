@@ -1,0 +1,240 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19042.1348; Version 2009; 64bit' Language: 'fr' Physical Memory: 32641 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/1975999/Desktop/jeu-ballon/jeu-ballon
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60263
+Successfully changed project path to: C:/Users/1975999/Desktop/jeu-ballon/jeu-ballon
+C:/Users/1975999/Desktop/jeu-ballon/jeu-ballon
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 184.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/1975999/Desktop/jeu-ballon/jeu-ballon/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   NVIDIA
+    VRAM:     8011 MB
+    Driver:   30.0.14.7141
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56872
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003097 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 108.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.127 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004231 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\1975999\Desktop\jeu-ballon\jeu-ballon\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\1975999\Desktop\jeu-ballon\jeu-ballon\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 116.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.335 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5361 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 222.4 MB.
+System memory in use after: 218.8 MB.
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 5799.
+Total: 6.283100 ms (FindLiveObjects: 0.484800 ms CreateObjectMapping: 0.486500 ms MarkObjects: 2.813000 ms  DeleteObjects: 2.497000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SampleSceneAssets/TutorialInfo/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/TutorialInfo/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f526ef3cb39c3e098b46d739acdfcb0') in 0.028030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.190016 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Editor/SceneTemplates/Outdoors/OutdoorsSceneTemplate.scenetemplate
+  artifactKey: Guid(22266844e00b5ec4699a36682bf753c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Editor/SceneTemplates/Outdoors/OutdoorsSceneTemplate.scenetemplate using Guid(22266844e00b5ec4699a36682bf753c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ee87c1ca15032d9e35579259d00965b') in 0.132873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Editor/SceneTemplates/Outdoors/SkyandFogSettingsProfile.asset
+  artifactKey: Guid(274ed3d2d52027d4a96b38fff65dd32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Editor/SceneTemplates/Outdoors/SkyandFogSettingsProfile.asset using Guid(274ed3d2d52027d4a96b38fff65dd32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a291a4d24a3c4452bcd9c6c8305d2db') in 0.003152 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011347 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\1975999\Desktop\jeu-ballon\jeu-ballon\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\1975999\Desktop\jeu-ballon\jeu-ballon\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.200 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5192 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 219.8 MB.
+System memory in use after: 216.2 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5899.
+Total: 4.507000 ms (FindLiveObjects: 0.357900 ms CreateObjectMapping: 0.293500 ms MarkObjects: 2.012200 ms  DeleteObjects: 1.842600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004278 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\1975999\Desktop\jeu-ballon\jeu-ballon\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\1975999\Desktop\jeu-ballon\jeu-ballon\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.123 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5333 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 224.2 MB.
+System memory in use after: 220.6 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 6045.
+Total: 5.075700 ms (FindLiveObjects: 0.489900 ms CreateObjectMapping: 0.462200 ms MarkObjects: 2.230100 ms  DeleteObjects: 1.892700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 472.933308 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.8/Default Input Actions
+  artifactKey: Guid(54897ed1d5030a649b65fcebc6ed5022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.8/Default Input Actions using Guid(54897ed1d5030a649b65fcebc6ed5022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d98aac512ad0845764fae50179ca926') in 0.006443 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009843 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\1975999\Desktop\jeu-ballon\jeu-ballon\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\1975999\Desktop\jeu-ballon\jeu-ballon\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.149 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.32 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5428 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 227.5 MB.
+System memory in use after: 223.7 MB.
+
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 6130.
+Total: 4.729000 ms (FindLiveObjects: 0.362400 ms CreateObjectMapping: 0.283100 ms MarkObjects: 2.119700 ms  DeleteObjects: 1.963100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 142.910354 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.8/Default Input Actions/XRI Default Continuous Move.preset
+  artifactKey: Guid(91f9da00cfdac5d49955df2d2d820b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.8/Default Input Actions/XRI Default Continuous Move.preset using Guid(91f9da00cfdac5d49955df2d2d820b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3172d391be27f01283457111bf8ce0ee') in 0.030875 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.8/Default Input Actions/XRI Default Left Controller.preset
+  artifactKey: Guid(ffd8268f7307a0c48a067dad4a8fe060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.8/Default Input Actions/XRI Default Left Controller.preset using Guid(ffd8268f7307a0c48a067dad4a8fe060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2766bed2304a7cb54011c31bcbd5950') in 0.009836 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.8/Default Input Actions/XRI Default Snap Turn.preset
+  artifactKey: Guid(18697d253d848974aa7052cba872c9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.8/Default Input Actions/XRI Default Snap Turn.preset using Guid(18697d253d848974aa7052cba872c9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaae37826a9ee92f79ff05022234850e') in 0.005529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.8/Default Input Actions/XRI Default Input Actions.inputactions
+  artifactKey: Guid(c348712bda248c246b8c49b3db54643f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.8/Default Input Actions/XRI Default Input Actions.inputactions using Guid(c348712bda248c246b8c49b3db54643f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd962e21d882c044ab9f601fc59dc91ea') in 0.007984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.8/Default Input Actions/XRI Default Continuous Turn.preset
+  artifactKey: Guid(0caad3af14f9a414dbdf25ed41e5aa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.8/Default Input Actions/XRI Default Continuous Turn.preset using Guid(0caad3af14f9a414dbdf25ed41e5aa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f58ad70a9ca309fa1068fb293f9d4488') in 0.005810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.8/Default Input Actions/XRI Default Right Controller.preset
+  artifactKey: Guid(1421ad86ff3787b4dae70fe9e699a25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.8/Default Input Actions/XRI Default Right Controller.preset using Guid(1421ad86ff3787b4dae70fe9e699a25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '419b9b0a433c52d2554124570ff0f757') in 0.003983 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1550.759717 seconds.
+  path: Assets/Maya
+  artifactKey: Guid(a4c1be4330db68248838c0328ed15fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maya using Guid(a4c1be4330db68248838c0328ed15fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ce7d99554f4c8682d1a0818be22af4') in 0.003757 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.118245 seconds.
+  path: Assets/Maya/ballon.fbx
+  artifactKey: Guid(9eb275cd26b65a14bba933d369592d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maya/ballon.fbx using Guid(9eb275cd26b65a14bba933d369592d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+ -> (artifact id: '26a021094d9004a05032e4ada96a8629') in 1.663547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Maya/gym.fbx
+  artifactKey: Guid(4a47ab2cb9598134a9a1eef57b7470c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maya/gym.fbx using Guid(4a47ab2cb9598134a9a1eef57b7470c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d5041bb70fc07c46dac404d195e4d38') in 0.062617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Maya/banc.fbx
+  artifactKey: Guid(9ed06e4f5ea58e441a1b290767a0c8a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maya/banc.fbx using Guid(9ed06e4f5ea58e441a1b290767a0c8a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '904ba73b15d5331fc40e05277782cb6a') in 7.245845 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Maya/casier.fbx
+  artifactKey: Guid(4d89b617dd978ed458fe1218d1a9db7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maya/casier.fbx using Guid(4d89b617dd978ed458fe1218d1a9db7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d7ba60d0e66cbadc0168785aaf78e84') in 0.172708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 381.105422 seconds.
+  path: Assets/Maya/casier.fbx
+  artifactKey: Guid(4d89b617dd978ed458fe1218d1a9db7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maya/casier.fbx using Guid(4d89b617dd978ed458fe1218d1a9db7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77bc7f93d97fdbc746444db7284dbd0a') in 0.177370 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
