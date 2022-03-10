@@ -712,6 +712,7 @@ GameObject:
   - component: {fileID: 373023123}
   - component: {fileID: 373023126}
   - component: {fileID: 373023125}
+  - component: {fileID: 373023127}
   m_Layer: 0
   m_Name: background-son
   m_TagString: Untagged
@@ -858,8 +859,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"score","value":{"$content":0,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
+--- !u!114 &373023127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 373023122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 3cacbd25451e74443bc5edf916468049, type: 2}
 --- !u!1 &457835574
 GameObject:
   m_ObjectHideFlags: 0
