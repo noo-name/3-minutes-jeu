@@ -154,6 +154,20 @@
             "ignore": false,
             "defaultInstantiationMode": 0,
             "supportsModification": true
+        },
+        {
+            "userAdded": true,
+            "type": "TMPro.TextMeshPro",
+            "ignore": false,
+            "defaultInstantiationMode": 0,
+            "supportsModification": true
+        },
+        {
+            "userAdded": true,
+            "type": "TMPro.TextMeshProUGUI",
+            "ignore": false,
+            "defaultInstantiationMode": 0,
+            "supportsModification": true
         }
     ],
     "defaultDependencyTypeInfo": {
