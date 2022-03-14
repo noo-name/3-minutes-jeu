@@ -150,15 +150,15 @@ RectTransform:
   m_GameObject: {fileID: 54277957}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.2221, y: 1.2221, z: 1.2221}
+  m_LocalScale: {x: 1.362, y: 1.362, z: 1.362}
   m_Children: []
   m_Father: {fileID: 1986880252}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1, y: -19}
-  m_SizeDelta: {x: 173.6847, y: 54.041}
+  m_AnchoredPosition: {x: 5, y: -45.11}
+  m_SizeDelta: {x: 295.93, y: 77.78}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &54277959
 MonoBehaviour:
@@ -182,11 +182,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 8
+    m_FontSize: 10
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 1
-    m_MaxSize: 40
+    m_MinSize: 0
+    m_MaxSize: 50
     m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -194,9 +194,9 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Le but du jeu est de casser le plus de cibles \xE0 l'aide des balles en
-    3 minutes. Pour vous d\xE9placer, utiliser le manche de la manette gauche. Pour
-    prendre les balles, utiliser les g\xE2chettes des deux manettes et pour les lancers
-    rel\xE2cher les g\xE2chettes."
+    3 minutes. Pour vous d\xE9placez, utilisez le manche de la manette gauche. Pour
+    prendre les balles, utilisez les g\xE2chettes des deux manettes et pour les lancer, 
+    rel\xE2chez les g\xE2chettes."
 --- !u!222 &54277960
 CanvasRenderer:
   m_ObjectHideFlags: 0
