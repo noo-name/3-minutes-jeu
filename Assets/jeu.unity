@@ -6719,7 +6719,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 
 --- !u!222 &673781238
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11350,7 +11350,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Enlevez le casque et diriger vers le couloir situ\xE9 derriere "
+  m_Text: "Enlevez le casque et diriger vers le couloir situ\xE9 derriere vous (Suivez
+    la fl\xE8che)"
 --- !u!222 &1134096115
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11401,7 +11402,7 @@ AudioSource:
   MinDistance: 1
   MaxDistance: 500
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
