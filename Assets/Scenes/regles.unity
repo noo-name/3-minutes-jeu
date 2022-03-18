@@ -157,8 +157,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5, y: -36}
-  m_SizeDelta: {x: 295.93, y: 77.78}
+  m_AnchoredPosition: {x: 5, y: -41.76}
+  m_SizeDelta: {x: 295.93, y: 104.98}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &54277959
 MonoBehaviour:
@@ -195,9 +195,10 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "Le but du jeu est de casser le plus de cibles \xE0 l'aide des balles en
     3 minutes. Pour prendre les balles, utilisez les g\xE2chettes des deux manettes
-    et pour les lancer,  rel\xE2chez les g\xE2chettes. Vous pouvez int\xE9ragir avec
-    certain objects de la sc\xE8ne en les touchant avec les balles\n\nREGARDER SUR
-    LE C\xD4TER PRENEZ LE BALLON ET LANCER LE SUR LA CIBLE POUR COMMENCER"
+    et pour les lancer ,  rel\xE2chez les g\xE2chettes.(Lancer vers le bas pour une
+    exp\xE9rience optimale). Vous pouvez int\xE9ragir avec certain objects de la
+    sc\xE8ne en les touchant avec les balles\nREGARDER SUR LE C\xD4TER PRENEZ LE
+    BALLON ET LANCER LE SUR LA CIBLE "
 --- !u!222 &54277960
 CanvasRenderer:
   m_ObjectHideFlags: 0
